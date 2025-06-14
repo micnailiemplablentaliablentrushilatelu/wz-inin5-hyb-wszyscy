@@ -23,9 +23,8 @@ Aby zaproponować zmianę, utwórz *Pull Request*:
 Przed wysłaniem PR:
 - Upewnij się, że zdjęcie jest w katalogu `img/`
 - Sekcja HTML musi mieć strukturę:
-```html
+
 <section>
 <h2>Stolica</h2>
 <img src="img/nazwa_pliku.jpg" alt="Opis zdjęcia">
 </section>
-```html
