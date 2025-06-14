@@ -27,4 +27,4 @@ Aby uruchomić projekt lokalnie, wykonaj następujące kroki:
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/twoj-nazwa-uzytkownika/nazwa-repozytorium.git
+   git clone https://github.com/micnailiemplablentaliablentrushilatelu/wz-inin5-hyb-wszyscy.git
